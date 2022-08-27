@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Catalina-Dark
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-PluginInfo-Author=zayronxio
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=zayronxio@gmail.com
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=Catalina-Dark
+X-KDE-PluginInfo-Version=1.0.1
+X-KDE-PluginInfo-Website=Catalina-Dark.com
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1870462,kns://plasma-themes.knsrc/api.kde-look.org/1316304,kns://icons.knsrc/api.kde-look.org/1309810,kns://aurorae.knsrc/api.kde-look.org/1409704,kns://wallpaper.knsrc/api.kde-look.org/1874221,kns://sddmtheme.knsrc/api.kde-look.org/1398839,kns://icons.knsrc/api.kde-look.org/1400021
